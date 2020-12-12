@@ -1,1 +1,1 @@
-# weather-app-ua
+# weather-app
